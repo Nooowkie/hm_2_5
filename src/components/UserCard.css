@@ -1,0 +1,19 @@
+.user-card {
+  border: 1px solid #dcadad;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 10px;
+  width: 220px;
+  background: #e9e0e0;
+}
+
+.user-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.user-card h2 {
+  font-size: 20px;
+  color: #333;
+}
